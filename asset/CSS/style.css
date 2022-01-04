@@ -8,6 +8,7 @@ body{
 
   background-color: rgb(7, 3, 70);
   color: aliceblue;
+  font-family: "Raleway", sans-serif;
 }
 
 img {
@@ -21,12 +22,13 @@ img {
         background-size: cover;
         background-position: left;
 
-      #Mi-portafolio {
+        #Mis-trabajos .icon-top{
           height: 250px;
           background-repeat: no-repeat;
           background-size: cover;
           background-position: center;
         }
+        
 
       h1 {
         text-align: center;
@@ -44,12 +46,38 @@ img {
         opacity: 1;
         font-weight: "Raleway";
         }
+
+        h5 {
+          text-align: center;
+          color: #0b022e;
+          padding-top: 20px;
+
+
+        }
         
         p {
           text-align: center;
           color: #ffffff;
           padding-top: 20px;
         }
+
+        p .card-text{
+          text-align: center;
+          color: #1e1a13;
+          padding-top: 20px;
+        }
+
+        p .text-end{
+          text-align: center;
+          color: #1e1a13;
+          padding-top: 20px;
+
+
+        }
+
+
+
+        ]
 
         /*.desc-section {
           margin: 5rem;
